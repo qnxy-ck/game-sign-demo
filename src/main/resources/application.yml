@@ -1,0 +1,12 @@
+server:
+  port: 9901
+spring:
+  application:
+    name: game-sign-demo
+#  mvc:
+#    servlet:
+#      path: /game-sign-demo
+merchant:
+  merchant-code: 123456
+  merchant-secret: 123456
+
